@@ -6,8 +6,8 @@
 
 <div>
   <a href="https://github.com/ruipablobf">
-  <img height= "150px" src="https://github-readme-stats.vercel.app/api?username=ruipablobf&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height= "150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruipablobf&layout=compact&langs_count=16&theme=merko"/>
+   <img height = "180em" src="https://github-readme-stats.vercel.app/api?username=ruipablobf&show_icons=true&theme=radical" />
+  <img height= "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruipablobf&layout=compact&langs_count=16&theme=merko"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -27,4 +27,3 @@
   -->
 </div>
 
-![snake gif](https://github.com/ruipablobf/ruipablobf/blob/output/github-contribution-grid-snake.svg)
