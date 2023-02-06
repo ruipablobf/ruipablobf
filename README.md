@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Rui Pablo
 
-- 🔭 Atualmente estou em busca de um emprego de front-End
+- 🔭 Atualmente estou em busca de um emprego em Front-End
 - 🌱 Estou estudando Javascript entre outras ferramentas de FrontEnd
 - 😄 Pronouns: ele/dele
 
