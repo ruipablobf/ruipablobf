@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Rui Pablo
 
-- 🔭 Atualmente estou em busca de um emprego em Front-End
-- 🌱 Estou estudando Javascript entre outras ferramentas de FrontEnd
+- 🔭 Atualmente estou em busca de um emprego na área de desenvolvedor
+- 🌱 Estou estudando Python entre outras ferramentas.
 - 😄 Pronouns: ele/dele
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruipablobf&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
